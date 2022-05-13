@@ -1,0 +1,625 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.nav{
+background: rgb(236,242,245);
+
+}
+
+.upper{
+    text-decoration: none !important;
+    margin-right: 10px;
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 20.5px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+.left-text{
+    margin-right: 10px;
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 20.5px;
+    color: rgb(34, 38, 42);
+    font-weight: 600;   
+}
+
+.navbar-brand{
+    margin-left: 15%;
+    margin-right: 30%;
+}
+
+.naval-bg{
+    background: rgb(18,18,18);
+    
+}
+
+.nav-link{
+    margin-right: 40px;
+    padding: 30px;
+}
+
+/* .nav-item{} */
+
+
+input[type="text"] 
+{color: rgb(72, 79, 86);
+	font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    letter-spacing: px;
+	display:inline-block;
+    box-sizing: border-box;
+    border: 1px solid rgb(172, 169, 169);
+    box-shadow: none !important;
+    background: transparent;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.search-area{
+    position: relative;
+}
+
+.search-engine{
+    position: absolute;
+    left: 1rem;
+    top: 0.4rem;
+}
+
+.acct{
+    list-style: none;
+}
+
+.nav-link1{
+    border-right: 2px solid ;
+}
+
+.nav-link{
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 16.5px;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 600;   
+}
+
+.btn-get{
+    background: rgb(18,18,18); 
+    color: white !important; 
+     font-size: 14px;
+}
+
+.bottom-nav{
+    border-bottom: 1px solid rgb(196, 190, 190);
+}
+
+.upper1{
+    text-decoration: none !important;
+    margin-right: 10px;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 20.5px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;  
+}
+
+.gallery{
+background-image: url(./img/home-5-5.jpg);
+height: 70vh;
+background-position: center;
+background-repeat: no-repeat;
+border-radius: 10px;
+
+}
+
+.season{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  rgb(247,247,247); 
+    font-size: 100px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-shadow:
+    0 0 4px rgb(8, 0, 0), 0 0 4px rgb(10, 2, 2), 0 0 4px rgb(0, 0, 0), 0 0 4px rgb(5, 2, 2), 0 0 4px rgb(10, 4, 4), 0 0 4px rgb(5, 5, 5), 0 0 4px rgb(7, 3, 3), 0 0 4px rgb(10, 5, 5), 0 0 4px rgb(8, 8, 8), 0 0 4px rgb(10, 5, 5), 0 0 4px rgb(12, 12, 12), 0 0 4px rgb(7, 7, 7), 0 0 4px rgb(7, 7, 7), 0 0 4px rgb(5, 5, 5), 0 0 4px rgb(8, 8, 8), 0 0 4px rgb(3, 3, 3), 0 0 4px rgb(7, 7, 7), 0 0 4px rgb(2, 2, 2), 0 0 4px rgb(3, 3, 3), 0 0 4px rgb(8, 8, 8);
+}
+.sale{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  rgb(8, 2, 2); 
+    font-size: 100px;
+    font-weight: 1000;
+    letter-spacing: 2px; 
+    text-shadow:
+    0 0 3px rgb(8, 0, 0), 0 0 4px rgb(10, 2, 2) !important;
+}
+
+.text-under{
+    text-decoration: none !important;
+
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 20.5px;
+    color:  rgb(72, 79, 86);
+    font-weight: 500;  
+}
+
+.left-side{
+    background: rgba(227, 228, 231, 0.521);
+    border-radius: 10px;
+}
+
+.SHOP-WOMEN{
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 12px;
+    color:  rgb(26, 29, 32);
+    font-weight: 700; 
+}
+.WOMEN{
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 18px;
+    color: rgb(53, 59, 65);
+    font-weight: 700; 
+}
+.letter{
+    font-size: 14px;
+    font-family: sans-serif;
+    line-height: 14px;
+    color: rgb(53, 59, 65);
+    font-weight: 400; 
+}
+
+.box-iii{
+    background-image: url(./img/zenuro-jeans.jpg.webp);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center ;
+    border-radius: 5px;
+}
+.box-ii{
+    background-image: url(./img/home-10-2.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    border-radius: 5px;
+}
+.box-i{
+    background-image: url(./img/home-9-1.jpg);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: cover ;
+    border-radius: 5px;
+}
+
+.head{
+    font-size: 22px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:  rgb(45, 48, 49);
+    font-weight: 600; 
+}
+.head2{
+    padding-top: 70%;
+    font-size: 28px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:  rgb(255, 255, 255);
+    font-weight: 700; 
+}
+
+.letter2{
+    font-size: 14px;
+    font-family: sans-serif;
+    line-height: 14px;
+    color: rgb(255, 255, 255);
+    font-weight: 600; 
+}
+
+.btn-shirts{
+    border: 1px solid black;
+    font-size: 14px;
+    font-weight: 540;
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+    margin: 5px ;
+    transform: skew(-29deg);
+}
+
+.top{
+    font-size: 19px;
+    font-family: sans-serif;
+    line-height: 19px;
+    color: rgb(72, 79, 86);
+    font-weight: 700; 
+}
+.carousel-in{
+    padding-top: 50%;
+
+}
+.picks{
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+line-height: 20px;
+color: rgb(72, 79, 86);
+font-weight: 700;
+}
+
+.shop-no{
+    text-decoration: none !important;
+    color: rgb(72, 79, 86);
+    border-bottom: 2px solid rgb(72, 79, 86);
+    text-align: right !important;
+   font-size: 12px;
+   font-weight: 600;
+  
+}
+.title{
+    text-decoration: none !important;
+    color: rgb(109, 117, 126);
+   font-size: 10px;
+   font-family: sans-serif;
+   font-weight: 600;   
+   line-height: 10px;
+}
+.not{
+    text-decoration: none !important;
+    color:   rgb(72, 79, 86);
+   font-size: 15px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 500;   
+   line-height: 21.2px;
+   letter-spacing: px;
+}
+.prize{
+    text-decoration: none !important;
+    color:   rgb(53, 59, 65);
+   font-size: 13px;
+   font-family: Tahoma, sans-serif;
+   line-height: 13px;
+
+}
+
+.img-gala{
+    background-image: url(./img/swimwear.jpg.webp);
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: center top;
+
+}
+
+.img-gala1{
+    background-image: url(./img/pants-leggings.jpg.webp);
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-position: inherit;
+
+}
+.img-gala2{
+    background-image: url(./img/ready-set-summer-1.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+
+
+
+
+.head{
+    font-size: 22px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:  rgb(45, 48, 49);
+    font-weight: 600; 
+}
+.head2{
+    padding-top: 70%;
+    font-size: 28px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:  rgb(255, 255, 255);
+    font-weight: 700; 
+}
+
+.letter2{
+    font-size: 14px;
+    font-family: sans-serif;
+    line-height: 14px;
+    color: rgb(255, 255, 255);
+    font-weight: 600; 
+}
+
+.btn-shirt{
+background: rgb(56, 56, 56);
+color: rgb(255, 255, 255);
+font-family: sans-serif;
+font-size: 13px;
+font-weight: 400;
+letter-spacing: px;
+}
+
+.weekly{
+    background: rgb(249,250,250);
+}
+
+.caro-div{
+    background: rgb(249,250,250);
+}
+
+.wallpaper{
+    background: rgb(249,250,250);
+}
+
+.box-wallpaper{
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),  url(./img/fragrances.jpg);
+    height: 100vh;
+    background-size: cover !important;
+    background-position: center !important;
+
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.box1-wallpaper{
+    background-image: url(./img/sunglasses.jpg);
+    height: 50vh;
+   background-size: cover !important;
+    width: 100%;
+    background-position: center bottom;
+   background-repeat: no-repeat;
+}
+.boxii-wallpaper{
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(./img/fashion-comfort.jpg);
+    height: 48vh;
+   background-size: cover;
+    width: 100%;
+    background-position: bottom right;
+   background-repeat: no-repeat;
+}
+
+.boxiii-wallpaper{
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(./img/tops.jpg);
+    height: 48vh;
+   background-size: cover;
+    width: 100%;
+    background-position: bottom right;
+   background-repeat: no-repeat;
+}
+
+.fragg{
+    padding-top: 90%;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 39px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+
+.taggs{
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    letter-spacing: -1px;
+    cursor: pointer;
+}
+
+.btn-shop-all {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    letter-spacing: -1px;
+    cursor: pointer;
+}
+.shop-now{
+    text-decoration: none !important;
+    color: rgb(248, 250, 252);
+    border-bottom: 2px solid rgb(249, 250, 252);
+    text-align: right !important;
+   font-size: 13px;
+   font-weight: 700;
+  
+}
+
+.tops{
+    padding-top: 75%;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.tops2{
+    padding-top: 65%;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+
+.btn-discover{
+    margin-top: 100%;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    letter-spacing: -1px;
+    cursor:pointer;
+}
+
+.tops3{
+    padding-top: 23%;
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 200;
+    color: rgb(255, 255, 255);
+    line-height: 40px;
+    letter-spacing: -1px;
+}
+
+.btn-shop-all2 {
+    border-radius: 5px;
+    text-decoration: none !important;
+    font-size: 14px;
+    font-weight: 600;
+   background: rgb(0, 0, 0);
+   color: white;
+    letter-spacing: -1px;
+    cursor: pointer;
+}
+
+.fa-instagram{
+    border-radius: 5px;
+    background-color: rgb(205,26,26) !important;
+}
+
+
+.follow{
+    text-decoration: none !important;
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 12px;
+    color:  rgb(11, 11, 12);
+    font-weight: 700; 
+}
+
+.logos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.foot{
+    color: black !important;
+    background: rgb(253, 252, 252);
+    }
+    
+    /* .footer{
+    
+    } */
+    .dot{
+        color: rgb(18,18,18);
+    }
+    
+    .foot-location{
+        color: rgb(7, 6, 6);
+        font-size: 14px;
+        font-weight: 400;
+        font-family: verdana, sans-serif;
+        line-height: 10px;
+    }
+    .foot-location1{
+        color: rgb(7, 6, 6);
+        font-size: 14px;
+        font-weight: 600;
+        font-family: verdana, sans-serif;
+        line-height: 10px;
+    }
+
+
+
+    .foot-head{
+        color: rgb(8, 8, 8);
+        font-size: 22px;
+        font-weight: 700;
+        font-family: verdana, sans-serif;
+        line-height: 22px;
+        letter-spacing: -3px;
+        margin-bottom: 19px !important;
+    
+    }
+    
+    .foot-last{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 23px;
+        color: rgb(5, 2, 2) !important;
+        font-family:verdana, sans-serif;
+    }
+
+    .per{
+        margin: 0;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 36px;
+        color: rgb(7, 6, 6);  
+        font-family: tahoma,sans-serif;
+        letter-spacing: px;  
+     }
+    
+     .get-off{
+         margin: 0;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 22.7px;
+        color: rgb(7, 7, 7);  
+        letter-spacing: -1px;
+        font-family: tahoma,sans-serif;   
+     }
+    
+     .form-text{
+         width: 130%;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18.7px;
+        color: rgb(150, 146, 146);  
+        font-family: tahoma,sans-serif;    
+     }
+    
+     .join{
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 18.7px;
+        color: rgba(0, 0, 0, 0.644);  
+        font-family: tahoma,sans-serif;     
+        position: absolute;
+        right: 0.9rem;
+        bottom: 0.1rem;
+     }
+    
+    
+    
+     .pos{
+         position: relative;
+     }
+    
+    
+    
+    input[type="email"] 
+    {color: rgb(75, 74, 74);
+        font-size: 11px;
+        font-weight: 500;
+        text-align: left;
+        letter-spacing: px;
+        display:inline-block;
+        box-sizing: border-box;
+        border: 1px solid rgb(172, 169, 169);
+        box-shadow: none !important;
+        background: transparent;
+        font-family: 'Open Sans', sans-serif;
+        padding: 20px 50px !important;
+        width: 120%;
+    }
+
+    .footer-logo {
+        position: absolute;
+        z-index:-4 ;
+        top: -3rem;
+        left: -4rem;
+    }
+
+    .foot{
+        z-index: 999;
+        position: relative;
+    }
+
+    .marker{
+        height: 2vh;
+        background: rgb(245,245,245);
+    }
+    .counter{
+        
+        border-radius: 50%;
+    }
